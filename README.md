@@ -1,5 +1,5 @@
 # Tools Office 2023-2024.
--	Download Tools từ [trang chủ](https://msfree.su/index.php)
+-	Download Tools từ [trang chủ](https://msfree.su/index.php) hoặc từ [github](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/IMP/Offic3%202013-2024%20C2R%20Install%20%2B%20Lite%20v7.7.7.7%20r17.7z)
 -	Tools có chức năng Download và istalls office
 -	Convert office Retail to Volume.
 -	Active Office.
