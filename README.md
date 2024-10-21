@@ -2,7 +2,7 @@
 - ![image](https://github.com/user-attachments/assets/892ab962-1334-4126-9b74-42be48da0f04)
 - ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 - **Khi giải nén bị lỗi hoặc bị Windows depender chặn thì làm theo chỉ dẫn: https://github.com/BsNgChiThanh/AllowWindowsDepender**
-- Download Tools từ [Trang chủ](https://msfree.su/index.php) hoặc từ **Github mật khẩu giải nén: 2024**
+- Download Tools từ [Trang chủ](https://msfree.su/index.php) hoặc từ **Github mật khẩu giải nén 2024**
   - [Office 2013-2024](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/IMP/Offic3%202013-2024%20C2R%20Install%20%2B%20Lite%20v7.7.7.7%20r17.7z) mật khẩu giải nén: 2024
     - ![image](https://github.com/user-attachments/assets/46ef0bbc-0718-4b36-a2ea-f1c2101c0c82)
   - [KMSAuto++ Portable v1.9.9](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/KMSAuto%2B%2B%20Portable%20v1.9.9%20b06.7z) mật khẩu giải nén: 2024
