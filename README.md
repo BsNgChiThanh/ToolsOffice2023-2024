@@ -1,10 +1,10 @@
 # Tools Office 2023-2024.
 -	Download Tools từ [Trang chủ](https://msfree.su/index.php) hoặc từ Github **mật khẩu giải nén: 2024**
-  -	[Office 2013-2024](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/IMP/Offic3%202013-2024%20C2R%20Install%20%2B%20Lite%20v7.7.7.7%20r17.7z)
-  -	[KMSAuto++ Portable v1.9.9](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/KMSAuto%2B%2B%20Portable%20v1.9.9%20b06.7z)
-  -	[PIDKey Lite v1.64.4](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/PIDKey%20Lite%20v1.64.4%20b42%20RU%20EN%20and%20more.7z)
-  -	[KMS Tools Lite Portable 07/09/2024](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/KMS%20Tools%20Lite%20Portable%2007.09.2024.7z)
-  -	[Office Installer v1.18](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/Office%20Installer%20and%20Office%20Installer%2B%20v1.18.7z)
+    -	[Office 2013-2024](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/IMP/Offic3%202013-2024%20C2R%20Install%20%2B%20Lite%20v7.7.7.7%20r17.7z)
+    -	[KMSAuto++ Portable v1.9.9](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/KMSAuto%2B%2B%20Portable%20v1.9.9%20b06.7z)
+    -	[PIDKey Lite v1.64.4](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/PIDKey%20Lite%20v1.64.4%20b42%20RU%20EN%20and%20more.7z)
+    -	[KMS Tools Lite Portable 07/09/2024](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/KMS%20Tools%20Lite%20Portable%2007.09.2024.7z)
+    -	[Office Installer v1.18](https://raw.githubusercontent.com/BsNgChiThanh/ToolsOffice2023-2024/refs/heads/IMP/Office%20Installer%20and%20Office%20Installer%2B%20v1.18.7z)
 -	Tools có chức năng Download và istalls office
 -	Convert office Retail to Volume.
 -	Active Office. 
